@@ -8,4 +8,4 @@
  ![Image text](move_image/xiao_game.gif)
 
 ### 游戏结束界面
- ![Image text](move_image/xiao_end.gif)
+ ![Image text](move_image/xiao_over.gif)
